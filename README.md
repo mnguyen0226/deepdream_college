@@ -1,7 +1,8 @@
 # DeepDream: What I Dreamt While At College
 
 - ResNet on MIT Indoor Scenes
-- DeepDream Algorithms
+- DeepDream Algorithms on ResNet
+- Train ResNet from scratch
 - Report
 - JavaScript Webpage. Deployable ML
 
