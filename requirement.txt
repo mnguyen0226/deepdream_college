@@ -1,2 +1,5 @@
 - python==3.7
 - opencv
+- matplotlib
+- conda install pytorch torchvision torchaudiocudatoolkit=11.3 -c pytorch.
+- Pytorch == 1.8
