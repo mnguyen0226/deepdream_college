@@ -1,9 +1,9 @@
 # DeepDream: What I Dreamt While At College
-
-- ResNet on MIT Indoor Scenes
-- DeepDream Algorithms on ResNet
-- Train ResNet from scratch
-- Report
+- Tailor Code for DeepDream VGG. Push code on github, trained models on drive
+- Train ResNet50, 101, 152 from scratch
+- Collect ALL Results
+- Try video?
+- Write Report
 - JavaScript Webpage. Deployable ML
 
 ## Packages:
