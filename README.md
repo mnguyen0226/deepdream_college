@@ -1,11 +1,23 @@
 # DeepDream: What I Dreamt While At College
-- Tailor Code for DeepDream VGG. Push code on github, trained models on drive
-- Train ResNet50, 101, 152 from scratch
-- Collect ALL Results
-- Try video?
-- Write Report
-- JavaScript Webpage. Deployable ML
 
-## Packages:
-- Python = 3.8.5 or python 3.7
-- pip3 install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+I experienced various vivid dream during college. [Inceptionism Algorithm](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) allows me to share my dream with you visually. Let's take a look
+
+## 1. Gallery
+
+
+## 2. Explained
+VGG11, VGG16, VGG19, ResNet50, ResNet101, ResNet152 trained from scratch on [MIT Indoor Scene](https://www.kaggle.com/datasets/itsahmad/indoor-scenes-cvpr-2019) dataset.
+
+## 3. Reproduction
+```python
+python==3.8.5x
+matplotlib
+pytorch==1.8.1+cu111
+opencv-contrib-python
+opencv-python
+```
+
+## 4. Inspiration:
+[Google AI Blog - "Inceptionism: Going Deeper into Neural Networks"](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
+
+[Aleska Gordic's repository](https://github.com/gordicaleksa/pytorch-deepdream)
