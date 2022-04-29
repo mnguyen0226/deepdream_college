@@ -5,7 +5,7 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 ## 1. Gallery
 
 
-## 2. Explained
+## 2. Explanation
 VGG11, VGG16, VGG19, ResNet50, ResNet101, ResNet152 trained from scratch on [MIT Indoor Scene](https://www.kaggle.com/datasets/itsahmad/indoor-scenes-cvpr-2019) dataset.
 
 ## 3. Reproduction
@@ -17,7 +17,11 @@ opencv-contrib-python
 opencv-python
 ```
 
-## 4. Inspiration:
+Training script: src/notebooks/training
+
+DeepDream script: src/notebooks/deepdream
+
+## 4. Inspiration
 [Google AI Blog - "Inceptionism: Going Deeper into Neural Networks"](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
 
 [Aleska Gordic's repository](https://github.com/gordicaleksa/pytorch-deepdream)
