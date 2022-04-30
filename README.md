@@ -2,6 +2,8 @@
 
 I experienced various vivid dream during college. [Inceptionism Algorithm](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) allows me to share my dream with you visually. Let's take a look!
 
+![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/hokiebird.jpg)
+
 ## 1. Gallery
 
 
