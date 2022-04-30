@@ -35,6 +35,8 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 ## 2. Explanation
 VGG11, VGG16, VGG19, ResNet50, ResNet101, ResNet152 trained from scratch on [MIT Indoor Scene](https://www.kaggle.com/datasets/itsahmad/indoor-scenes-cvpr-2019) dataset.
 
+![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/dd_pipeline.png)
+
 ## 3. Reproduction
 ```python
 python==3.8.5x
