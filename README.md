@@ -61,4 +61,5 @@ opencv-python
 ## 5. Report
 
 [Proposal](https://github.com/mnguyen0226/deepdream_college/blob/main/docs/report.pdf)
+
 [Final Report](https://github.com/mnguyen0226/deepdream_college/blob/main/docs/report.pdf)
