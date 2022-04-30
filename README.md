@@ -5,6 +5,9 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 ![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/hokiebird.jpg)
 
 ## 1. Gallery
+![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/career.jpg)
+
+![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/VT.jpg)
 
 
 ## 2. Explanation
