@@ -58,3 +58,6 @@ opencv-python
 [Aleska Gordic's repository](https://github.com/gordicaleksa/pytorch-deepdream)
 
 ## 5. Report
+
+[Proposal](https://github.com/mnguyen0226/deepdream_college/blob/main/docs/report.pdf)
+[Final Report](https://github.com/mnguyen0226/deepdream_college/blob/main/docs/report.pdf)
