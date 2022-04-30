@@ -48,6 +48,8 @@ opencv-python
 
 **DeepDream script**: src/notebooks/deepdream
 
+**Note**: Due to the size of the trained model, I will attach the trained model in [here](https://drive.google.com/drive/folders/1Nrx2pYcL1b273R_4UTI8JEWsvyzi086u?usp=sharing).
+
 ## 4. Inspiration
 [Google AI Blog - "Inceptionism: Going Deeper into Neural Networks"](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
 
