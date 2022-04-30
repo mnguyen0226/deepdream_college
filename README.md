@@ -9,6 +9,28 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 
 ![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/VT.jpg)
 
+***Other Images***
+- [Meta](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/meta)
+- [Google](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/google)
+- [Amazon](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/amazon)
+- [Apple](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/apple)
+- [Tesla](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/tesla)
+- [Twitter](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/twitter)
+- [Drillfield](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/drillfield)
+- [IEEE Club](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/ieee)
+- [Hokie Bird](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/hokie_bird)
+- [Lane Stadium](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/lane_stadium)
+- [Robotic Lab](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/robotics)
+- [Tailgate](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/taigate)
+- [Torgersen Bridge](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/torg_bridge)
+
+***Architecture-specific Images***
+- [ResNet-50](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet50)
+- [ResNet-101](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet101)
+- [ResNet-152](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet152)
+- [VGG-11](https://github.com/mnguyen0226/deepdream_college/tree/main/results/vgg11)
+- [VGG-101](https://github.com/mnguyen0226/deepdream_college/tree/main/results/vgg16)
+- [VGG-152](https://github.com/mnguyen0226/deepdream_college/tree/main/results/vgg19)
 
 ## 2. Explanation
 VGG11, VGG16, VGG19, ResNet50, ResNet101, ResNet152 trained from scratch on [MIT Indoor Scene](https://www.kaggle.com/datasets/itsahmad/indoor-scenes-cvpr-2019) dataset.
