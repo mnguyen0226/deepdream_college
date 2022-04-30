@@ -9,7 +9,7 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 
 ![alt-text](https://github.com/mnguyen0226/deepdream_college/blob/main/results/VT.jpg)
 
-***Other Images***
+**Other Images**
 - [Meta](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/meta)
 - [Google](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/google)
 - [Amazon](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/amazon)
@@ -24,7 +24,7 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 - [Tailgate](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/taigate)
 - [Torgersen Bridge](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/torg_bridge)
 
-***Architecture-specific Images***
+**Architecture-specific Images**
 - [ResNet-50](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet50)
 - [ResNet-101](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet101)
 - [ResNet-152](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet152)
