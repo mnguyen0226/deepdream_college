@@ -23,6 +23,7 @@ I experienced various vivid dream during college. [Inceptionism Algorithm](https
 - [Robotic Lab](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/robotics)
 - [Tailgate](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/taigate)
 - [Torgersen Bridge](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/torg_bridge)
+- [STAT 4984 Class](https://github.com/mnguyen0226/deepdream_college/tree/main/results/gallery/class)
 
 **Architecture-specific Images**
 - [ResNet-50](https://github.com/mnguyen0226/deepdream_college/tree/main/results/resnet50)
