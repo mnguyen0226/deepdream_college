@@ -56,8 +56,6 @@ opencv-python
 ## 4. Inspiration
 [Google AI Blog - "Inceptionism: Going Deeper into Neural Networks"](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)
 
-[Aleska Gordic's repository](https://github.com/gordicaleksa/pytorch-deepdream)
-
 ## 5. Report
 
 [Proposal](https://github.com/mnguyen0226/deepdream_college/blob/main/docs/report.pdf)
